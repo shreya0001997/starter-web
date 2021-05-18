@@ -1,8 +1,1 @@
-haafnjsafjfnsjfsabajfbafbadsssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss:wq
-
-
-
-
-:wq
-
 Paravirtualization is the expansion of the technology of virtualization in which a guest operating system (OS) is recompiled within a virtual machine before installation. Paravirtualization is created to allow many programs, through the efficient use of computing resources including processors and memory, to operate on a single hardware package. To function with a virtual machine, the OS is usually changed. It helps the guest operating system to be notified that it is a guest and has a driver which does not send commands directly to the hardware, but offers the host system commands respectively.
